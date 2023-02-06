@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <kathanon.MechColors.Default>Default</kathanon.MechColors.Default>
+    <kathanon.MechColors.SetColorLabel>Set mech color</kathanon.MechColors.SetColorLabel>
+    <kathanon.MechColors.SetColorDesc>Set an individual accent color for this mech.</kathanon.MechColors.SetColorDesc>
+    <kathanon.MechColors.SelectColor>Select color...</kathanon.MechColors.SelectColor>
+    <kathanon.MechColors.DefaultColor>Default color</kathanon.MechColors.DefaultColor>
+    <kathanon.MechColors.ChooseColor>Choose mech accent color for {0}</kathanon.MechColors.ChooseColor>
+</LanguageData>
